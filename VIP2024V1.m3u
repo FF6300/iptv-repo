@@ -1,0 +1,89 @@
+#EXTM3U
+
+# CATEGORIE: FILM
+#EXTINF:-1 tvg-ID="" tvg-logo="https://www.dnk.nl/wp-content/uploads/2024/01/One-Life.jpg" tvg-name="One Life" group-title="|= FILM =|", One Life
+https://drive.google.com/uc?id=1D_6oStjZfYg3mEpSyzGqJ9aYXrwZ1juB&export=download
+#EXTINF:-1 tvg-ID="" tvg-name="FURIOSA" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~program~ca19e360e66d7bcb.jpeg/630x355/quality/80/crop-from/top/furiosa-une-saga-mad-max.jpeg" group-title="|= FILM =|", FURIOSA
+https://www.dropbox.com/scl/fi/dd52vucw9f9l4i2ohcxyx/Watch_Furiosa_Mad_Max_Saga_2024_truefrench_mp4_The_Ultimate_Free.mp4?rlkey=u6lpia814u56z7yj6ryr3fpd7&st=c5wvymas&dl=0
+#EXTINF:-1 tvg-ID="" tvg-name="THE FALL GUY" group-title="|= FILM =|", THE FALL GUY
+https://dl.dropboxusercontent.com/scl/fi/1wmpe7c2ox61seaegwr4f/Watch_The_Fall_Guy_2024_Multi_Vfq_1080P_mp4_The_Ultimate_Free_Video.mp4?rlkey=tpsd98mexvfplcfo0mt9xwce1&st=eid6gxwn&dl=0
+
+# CATEGORIE: SERIES
+#EXTINF:-1 tvg-ID="" tvg-logo="https://de.web.img3.acsta.net/img/5f/25/5f25f86c1325b7d3cec9272ab1d94b53.jpg" tvg-name="Those About to Die" group-title="|= SERIES =|", Those About to Die - Saison 1
+#EXTGRP:|= SERIES =| Those About to Die - Saison 1
+#EXTINF:-1 tvg-ID="" tvg-logo="https://de.web.img3.acsta.net/img/5f/25/5f25f86c1325b7d3cec9272ab1d94b53.jpg" tvg-name="Those About to Die - S01E01" group-title="Those About to Die - Saison 1", Those About to Die - S01E01
+https://www.dropbox.com/scl/fi/izuqxq5ee6egoosysaqgz/Watch_Those_About_Die_S01E01_FRENCH_1080p_WEB_H265_mp4_The_Ultimate.mp4?rlkey=fmmpl18jjy3puu439t15wql5w&st=qqkhts0y&dl=1
+#EXTINF:-1 tvg-ID="" tvg-logo="https://de.web.img3.acsta.net/img/5f/25/5f25f86c1325b7d3cec9272ab1d94b53.jpg" tvg-name="Those About to Die - S01E02" group-title="Those About to Die - Saison 1", Those About to Die - S01E02
+https://www.dropbox.com/scl/fi/aokkc3ltz5mldm0wrj5an/Watch_Those_About_Die_S01E02_FRENCH_1080p_WEB_H265_mp4_The_Ultimate.mp4?rlkey=qanbjwxc046dnkc9xisdauv01&st=udcmehbn&dl=1
+#EXTINF:-1 tvg-ID="" tvg-logo="https://de.web.img3.acsta.net/img/5f/25/5f25f86c1325b7d3cec9272ab1d94b53.jpg" tvg-name="Those About to Die - S01E03" group-title="Those About to Die - Saison 1", Those About to Die - S01E03
+https://www.dropbox.com/scl/fi/82h2awqttj4f2762e9hjk/Watch_Those_About_Die_S01E03_FRENCH_1080p_WEB_H265_mp4_The_Ultimate.mp4?rlkey=kr3b10g3mhdea4hzc1isa0d41&st=k9pqvzd0&dl=1
+#EXTINF:-1 tvg-ID="" tvg-logo="https://de.web.img3.acsta.net/img/5f/25/5f25f86c1325b7d3cec9272ab1d94b53.jpg" tvg-name="Those About to Die - S01E04" group-title="Those About to Die - Saison 1", Those About to Die - S01E04
+https://www.dropbox.com/scl/fi/2mz75wbylcs8du6p4x65h/Watch_Those_About_Die_S01E04_FRENCH_1080p_WEB_H265_mp4_The_Ultimate.mp4?rlkey=t6bzgtjo5yfil9i8ki6agcuar&st=b5zon1o6&dl=1
+#EXTINF:-1 tvg-ID="" tvg-logo="https://de.web.img3.acsta.net/img/5f/25/5f25f86c1325b7d3cec9272ab1d94b53.jpg" tvg-name="Those About to Die - S01E05" group-title="Those About to Die - Saison 1", Those About to Die - S01E05
+https://www.dropbox.com/scl/fi/c20h3lfzevhfgtds0fyz7/Watch_Those_About_Die_S01E05_FRENCH_1080p_WEB_H265_mp4_The_Ultimate.mp4?rlkey=ne5hanekc4dp3j2df2grd9e2j&st=uj6v9y2f&dl=1
+
+# CATEGORIE: IPTV 1
+#EXTINF:-1 tvg-id="Canal+" tvg-name="FR: CANAL+" tvg-logo="https://docdog.top/logo/countries/france/canal-plus-fr.png" group-title="FR | TOP CHAINES VIP",FR: CANAL+
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/418
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: TF1" tvg-logo="https://docdog.top/logo/countries/france/tf1-fr.png" group-title="FR | TOP CHAINES VIP",FR: TF1
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/419
+#EXTINF:-1 tvg-id="M6" tvg-name="FR: M6" tvg-logo="https://docdog.top/logo/countries/france/m6-fr.png" group-title="FR | TOP CHAINES VIP",FR: M6
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/421
+#EXTINF:-1 tvg-id="W9" tvg-name="FR: W9" tvg-logo="https://docdog.top/logo/countries/france/w9-fr.png" group-title="FR | TOP CHAINES VIP",FR: W9
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/422
+#EXTINF:-1 tvg-id="C8" tvg-name="FR: C8" tvg-logo="https://docdog.top/logo/countries/france/c8-fr.png" group-title="FR | TOP CHAINES VIP",FR: C8
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/423
+#EXTINF:-1 tvg-id="TMC" tvg-name="FR: TMC" tvg-logo="https://docdog.top/logo/countries/france/tmc-fr.png" group-title="FR | TOP CHAINES VIP",FR: TMC
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/432
+#EXTINF:-1 tvg-id="France 2" tvg-name="FR: FRANCE 2" tvg-logo="https://docdog.top/logo/countries/france/france-2-fr.png" group-title="FR | TOP CHAINES VIP",FR: FRANCE 2
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/425
+
+#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="FR: CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/france/canal-plus-sport-fr.png" group-title="FR | SPORT VIP",FR: CANAL+ SPORT
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/371
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ MOTOGP" tvg-logo="https://docdog.top/logo/countries/france/Canal_MotoGP.png" group-title="FR | SPORT VIP",FR: CANAL+ MOTOGP
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/372
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ FORMULA 1" tvg-logo="https://docdog.top/logo/countries/france/CANAL_FORMULA1.png" group-title="FR | SPORT VIP",FR: CANAL+ FORMULA 1
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/25879
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ FORMULA 1" tvg-logo="https://docdog.top/logo/countries/france/CANAL_FORMULA1.png" group-title="FR | SPORT VIP",FR: CANAL + FORMULE 1 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:37:64:36&stream=295373&extension=ts
+#EXTINF:-1 tvg-id="CANST14" tvg-name="FR: CANAL+ TOP 14" tvg-logo="https://docdog.top/logo/countries/france/CANAL_TOP14.png" group-title="FR | SPORT VIP",FR: CANAL+ TOP 14
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/25880
+
+#EXTINF:-1 tvg-id="FR: BEIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/bein-sports-1-french-fr.png" group-title="FR | SPORT VIP",FR: BEIN SPORTS 1
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/373
+#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/france/bein-sports-2-french-fr.png" group-title="FR | SPORT VIP",FR: BEIN SPORTS 2
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/374
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/france/bein-sports-3-french-fr.png" group-title="FR | SPORT VIP",FR: BEIN SPORTS 3
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/375
+
+#EXTINF:-1 tvg-id="FR: RMC SPORT 1" tvg-name="FR: RMC SPORT 1" tvg-logo="https://docdog.top/logo/countries/france/rmcsport1.png" group-title="FR | SPORT VIP",FR: RMC SPORT 1
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/388
+#EXTINF:-1 tvg-id="RMC SPORT 2" tvg-name="FR: RMC SPORT 2" tvg-logo="https://docdog.top/logo/countries/france/rmcsport2.png" group-title="FR | SPORT VIP",FR: RMC SPORT 2
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/389
+#EXTINF:-1 tvg-id="RMC SPORT 3" tvg-name="FR: RMC SPORT 3" tvg-logo="https://docdog.top/logo/countries/france/rmc-sport-3-fr.png" group-title="FR | SPORT VIP",FR: RMC SPORT 3
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/390
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 4" tvg-logo="https://docdog.top/logo/countries/france/rmc-sport-4-fr.png" group-title="FR | SPORT VIP",FR: RMC SPORT 4
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/391
+
+#EXTINF:-1 tvg-id="FR: AMAZON PRIME 1 (MATCH TIME)" tvg-name="FR: AMAZON PRIME 1 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/france/AMAZON_PRIME.png" group-title="FR | SPORT VIP",FR: AMAZON PRIME 1 (MATCH TIME)
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/402
+#EXTINF:-1 tvg-id="FR: AMAZON PRIME 2 (MATCH TIME)" tvg-name="FR: AMAZON PRIME 2 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/france/AMAZON_PRIME.png" group-title="FR | SPORT VIP",FR: AMAZON PRIME 2 (MATCH TIME)
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/403
+#EXTINF:-1 tvg-id="FR: AMAZON PRIME 3 (MATCH TIME)" tvg-name="FR: AMAZON PRIME 3 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/france/AMAZON_PRIME.png" group-title="FR | SPORT VIP",FR: AMAZON PRIME 3 (MATCH TIME)
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/404
+
+#EXTINF:-1 tvg-id="FR: MULTISPORTS 1" tvg-name="FR: MULTISPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/multisports1.png" group-title="FR | SPORT VIP",FR: MULTISPORTS 1
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/412
+#EXTINF:-1 tvg-id="FR: MULTISPORTS 2" tvg-name="FR: MULTISPORTS 2" tvg-logo="https://docdog.top/logo/countries/france/multisports2.png" group-title="FR | SPORT VIP",FR: MULTISPORTS 2
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/413
+#EXTINF:-1 tvg-id="FR: MULTISPORTS 3" tvg-name="FR: MULTISPORTS 3" tvg-logo="https://docdog.top/logo/countries/france/multisports3.png" group-title="FR | SPORT VIP",FR: MULTISPORTS 3
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/414
+
+#EXTINF:-1 tvg-id="FR: EUROSPORT 1" tvg-name="FR: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/france/eurosport-1-fr.png" group-title="FR | SPORT VIP",FR: EUROSPORT 1
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/383
+#EXTINF:-1 tvg-id="FR: EUROSPORT 2" tvg-name="FR: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/france/eurosport-2-fr.png" group-title="FR | SPORT VIP",FR: EUROSPORT 2
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/384
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 360 1" tvg-logo="https://docdog.top/logo/countries/france/eurosport3603.png" group-title="FR | SPORT VIP",FR: EUROSPORT 360 1
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/385
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 360 2" tvg-logo="https://docdog.top/logo/countries/france/eurosport3603.png" group-title="FR | SPORT VIP",FR: EUROSPORT 360 2
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/386
